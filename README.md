@@ -16,6 +16,3 @@ Controle de estado e rota com GetX
 
 # Imagens do D2Mini
 ![Vista por cima](https://raw.githubusercontent.com/osmarmartins/d2mini-ingressos/master/vista1.png)
-
-![Vista dupla](https://raw.githubusercontent.com/osmarmartins/d2mini-ingressos/master/vista2.jpeg)
-
