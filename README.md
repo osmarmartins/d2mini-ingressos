@@ -5,9 +5,13 @@ Projeto para venda de ingressos desenvolvido em Flutter para o equipamento da D2
 # Recursos utilizados 
 
 Impressão de ingressos
+
 Leitor de cartão RFID
+
 Segundo display (display cliente)
+
 Armazenamento local (SQFlite)
+
 Controle de estado e rota com GetX
 
 # Telas
