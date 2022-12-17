@@ -10,7 +10,7 @@ Leitor de cartão RFID
 
 Segundo display (display cliente)
 
-Armazenamento local (SQFlite)
+Armazenamento interno (SQFlite)
 
 Controle de estado e rota com GetX
 
