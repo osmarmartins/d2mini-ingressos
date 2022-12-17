@@ -13,7 +13,7 @@ class HomeWidget extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Ingressos Flutter',
+          'D2Mini Ingressos',
           style: TextStyle(
             color: Colors.white,
           ),

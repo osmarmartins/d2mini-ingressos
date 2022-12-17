@@ -1,17 +1,21 @@
-# d2mini_ingressos
+# D2Mini Ingressos
 
-A new Flutter project.
+Projeto para venda de ingressos desenvolvido em Flutter para o equipamento da D2Mini da Tectoy.
 
-## Getting Started
+# Recursos utilizados 
 
-This project is a starting point for a Flutter application.
+Impressão de ingressos
+Leitor de cartão RFID
+Segundo display (display cliente)
+Armazenamento local (SQFlite)
+Controle de estado e rota com GetX
 
-A few resources to get you started if this is your first Flutter project:
+# Telas
+![Home](https://raw.githubusercontent.com/osmarmartins/d2mini-ingressos/master/AppIngressosHome.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# d2mini-ingressos
+# Imagens do D2Mini
+![Vista por cima](https://raw.githubusercontent.com/osmarmartins/d2mini-ingressos/master/vista1.png)
+
+![Vista dupla](https://raw.githubusercontent.com/osmarmartins/d2mini-ingressos/master/vista2.jpeg)
+
